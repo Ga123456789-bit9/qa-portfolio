@@ -44,9 +44,9 @@ The following testing activities were performed:
 | Total Test Cases | 27 |
 | Executed Test Cases | 27 |
 | Passed | 27 |
-| Failed | 27 |
-| Blocked | 27 |
-| Not Run | 27 |
+| Failed | 0|
+| Blocked | 0 |
+| Not Run | 0 |
 
 ## 6. Defect Summary
 
