@@ -1,52 +1,68 @@
-# E-commerce Website — Manual Testing
+# SauceDemo — Manual Testing Project
 
 ## Project Overview
 
-This project focuses on manual testing of an e-commerce web application to verify that its core functionalities work as expected.
+This project demonstrates manual functional testing of the SauceDemo e-commerce web application.
 
-The purpose of this project is to practise software testing fundamentals, identify potential defects, and document test execution results.
+The objective was to validate the main user flows, identify unexpected behavior, document test cases, and record test execution results with supporting evidence.
 
 ## Application Under Test
 
-- **Application:** SauceDemo
-- **Website:** https://www.saucedemo.com/
-- **Testing Type:** Manual Testing
-- **Testing Approach:** Black-box Testing
-- **Project Level:** Beginner / Fresher QA Portfolio
+**Application:** SauceDemo  
+**Website:** https://www.saucedemo.com/  
+**Testing Type:** Manual Functional Testing  
+**Role:** Manual QA Tester
 
-## Scope of Testing
+## Modules Tested
 
-The following modules will be tested:
+- Login
+- Product Listing
+- Shopping Cart
+- Checkout
+- Order Confirmation
 
-1. Login and Authentication
-2. Product Listing
-3. Shopping Cart
-4. Checkout Process
-5. Order Confirmation
+## Testing Activities
 
-## Testing Objectives
+- Prepared test scenarios and test cases.
+- Performed positive and negative testing.
+- Verified login validation and password masking.
+- Tested product sorting and cart operations.
+- Verified checkout form validations.
+- Checked order summary and order completion.
+- Captured screenshots as test evidence.
+- Documented actual results and test execution status.
 
-- Verify the functionality of the application.
-- Validate positive and negative user scenarios.
-- Check input validations and error messages.
-- Identify and document reproducible defects.
-- Verify that the application behaves as expected.
+## Tools Used
 
-## Testing Deliverables
+- Manual Testing
+- Microsoft Excel
+- GitHub
+- Web Browser
 
-- Test Plan
-- Test Scenarios
-- Test Cases
-- Test Execution Results
-- Bug Reports
-- Screenshots
-- Test Summary Report
+## Project Documents
 
-## Project Status
+| Document | Description |
+|---|---|
+| Test Plan | Testing objectives, scope, and approach |
+| Test Scenarios | High-level functional test scenarios |
+| Test Cases | Detailed test steps and expected results |
+| Bug Reports | Defect reporting and findings |
+| Test Summary | Overall test execution results |
 
-In Progress — Test scenarios and test cases are being prepared.
+## Test Execution Summary
 
-## Author
+| Metric | Result |
+|---|---:|
+| Total Test Cases | 27 |
+| Executed Test Cases | 27 |
+| Passed | 27 |
+| Failed | 0 |
+| Blocked | 0 |
+| Not Run | 0 |
 
-Gautami Gaude  
-B.E. Information Technology Graduate | 2026
+*Update these figures if your final Excel execution results differ.*
+
+## Conclusion
+
+This project provided practical experience in manual functional testing of an e-commerce application. It helped develop skills in test case design, test execution, validation testing, defect documentation, and test reporting.
+
